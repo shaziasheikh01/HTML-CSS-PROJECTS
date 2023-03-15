@@ -2,7 +2,7 @@
 
 ## DESCRIPTION
 
-small project for beginners who started learn html.
+small projects for beginners who started learning html & css
 
 1 -Cat photo App
-https://shaziasheikh01.github.io/HTML-PROJECTS/cat-photo-app
+
