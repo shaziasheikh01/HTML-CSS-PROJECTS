@@ -2,9 +2,7 @@
 
 ## DESCRIPTION
 
-_{small project for beginners who started learn html.}_
+small project for beginners who started learn html.
 
-#_{Cat photo App}_
-
-_{here is the link}_
+1 -Cat photo App
  https://shaziasheikh01.github.io/HTML-PROJECT/cat-photo-app
