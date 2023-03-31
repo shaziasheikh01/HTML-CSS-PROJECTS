@@ -12,3 +12,8 @@ https://shaziasheikh01.github.io/HTML-CSS-PROJECTS/cat-photo-app
 
 https://shaziasheikh01.github.io/HTML-CSS-PROJECTS/Tribute-Page
 
+3- Friendship Zone App
+
+https://shaziasheikh01.github.io/HTML-CSS-PROJECTS/Friendship Zone App
+
+
