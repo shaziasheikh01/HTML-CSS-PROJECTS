@@ -14,6 +14,6 @@ https://shaziasheikh01.github.io/HTML-CSS-PROJECTS/Tribute-Page
 
 3- Friendship Zone App
 
-https://shaziasheikh01.github.io/HTML-CSS-PROJECTS/Friendship Zone App
+https://shaziasheikh01.github.io/HTML-CSS-PROJECTS/Friendship%20Zone%20App
 
 
