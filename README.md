@@ -16,4 +16,8 @@ https://shaziasheikh01.github.io/HTML-CSS-PROJECTS/Tribute-Page
 
 https://shaziasheikh01.github.io/HTML-CSS-PROJECTS/Friendship%20Zone%20App
 
+4- Gym Website
+
+https://shaziasheikh01.github.io/HTML-CSS-PROJECTS/Gym%20Website/
+
 
