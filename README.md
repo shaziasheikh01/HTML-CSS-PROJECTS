@@ -24,7 +24,11 @@ https://shaziasheikh01.github.io/HTML-CSS-PROJECTS/My%20CV/
 
 https://shaziasheikh01.github.io/HTML-CSS-PROJECTS/Tribute-Page
 
-6- Gym Website
+6- Portfolio Website
+
+https://shaziasheikh01.github.io/HTML-CSS-PROJECTS/Portfolio%20Website/
+
+7- Gym Website
 
 https://shaziasheikh01.github.io/HTML-CSS-PROJECTS/Gym%20Website/
 
