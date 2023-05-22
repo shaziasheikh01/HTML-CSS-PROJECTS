@@ -16,11 +16,15 @@ https://shaziasheikh01.github.io/HTML-CSS-PROJECTS/animation-video
 
 https://shaziasheikh01.github.io/HTML-CSS-PROJECTS/Friendship%20Zone%20App
 
-4- Tribute Page
+4- My CV
+
+https://shaziasheikh01.github.io/HTML-CSS-PROJECTS/My%20CV/
+
+5- Tribute Page
 
 https://shaziasheikh01.github.io/HTML-CSS-PROJECTS/Tribute-Page
 
-4- Gym Website
+6- Gym Website
 
 https://shaziasheikh01.github.io/HTML-CSS-PROJECTS/Gym%20Website/
 
