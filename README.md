@@ -32,4 +32,8 @@ https://shaziasheikh01.github.io/HTML-CSS-PROJECTS/Portfolio%20Website/
 
 https://shaziasheikh01.github.io/HTML-CSS-PROJECTS/Gym%20Website/
 
+8 - Animated Login Page
+
+https://shaziasheikh01.github.io/HTML-CSS-PROJECTS/Animated%20Login%20Page/
+
 
