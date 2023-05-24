@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    /*grdients display smooth transition b/w two or more colour.
+      there are three types of grdeients 1) linear gradients, 2)Radia 3)Conic
+      1) define at least two colour
+      syntax - background :linear-gradients(direction, colour-stop1, colour-stop2,.... );
+      directions - top to bottom(default), left to right, top-left-to bottom right, etc
+      angles 0 to top top. 90deg to right, 180 to bottom
+    */
+    background: linear-gradient(120deg,#2980b9, #8e44ad); 
+    height: 100vh; 
+    /* overflow :hidden; it will stop scroll of body */
+    overflow: hidden;   
+}
+
+.center{
+    position: absolute;    /*The absolute positioning is used to position an element relative to the first parent element that has a position other than static.*/
+    top:50%;
+    left: 50%;
+    /* transfrom allow you to move rotate, scale, and skew element */
+     transform: translate(-50%, -50%);  /*translate(x axis, y axis )moves  an element form its current position. 
+     it is required  you want the center of the element to line up with the center of its parent. In simple terms, it can be boiled down to translateX(-50%) translateY(-50%), which means:
+     move me leftwards by 50% of my width, along the x-axis, and
+     move me upwards by 50% of my height, along the y-axis
+     */
+     width: 400px;
+     background: white;
+     border-radius:10px ;
+}
+.center h1{
+    text-align: center;
+    padding: 0 0 20px 0;
+    border-bottom: 1px solid silver;
+}
+.center form{
+    padding: 0 40px;
+    box-sizing: border-box;
+}
+form .text_field{
+    position: relative;
+    border-bottom: 2px solid #adadad;
+    margin: 30px 0;
+}
+.text_field input{
+    width:100%;
+    padding: 0 5px;
+    height: 40px;
+    font-size: 16px;
+    border: none;
+    background: none;
+    outline: none;  /* when write something no outline come */
+}
+.text_field label{
+    position: absolute;
+    top:50%;
+    left: 5px;
+    color: #adadad;
+    transform: translateY(-50%);
+    font-size: 16px;
+    /*  Set whether or not an element should react to pointer events: none and auto(defaukt)*/
+    pointer-events: none;
+    transition: .5s;
+
+}
+/* pseudo element - use to style any specified part of element */
+/*The ::before pseudo-element can be used to insert some content before the content of an element*/
+.text_field span::before{   
+    content: '';
+    position: absolute;
+    top:40px;
+    left:0;
+    width:0%;
+    height: 2px;
+    background: #2691d9;
+    transition: .5s;
+}
+
+/* A pseudo-class is used to define a special state of an element.*/
+/* For example, it can be used to:
+Style an element when a user mouses over it
+Style visited and unvisited links differently
+Style an element when it gets focus */
+/* Selects the <input> element that has focus */
+/*  The :valid selector selects form elements with a value that validates according to the element's settings.
+Note: The :valid selector only works for form elements with limitations, such as input elements with min and max attributes, email fields with a legal email, or number fields with a numeric value, etc.*/
+.text_field input:focus ~ label, .text_field input:valid ~ label{
+    top:-5px;
+    color: #2691d9;
+
+}
+.text_field input:focus ~ span::before, 
+.text_field input:valid ~ span::before{
+    width:100%;
+}
+.pass{
+    margin: -5px 0 20px 5px;
+    color: #a6a6a6;
+    cursor: pointer;
+}
+.pass:hover{
+    text-decoration: underline;
+}
+input[type="submit"]{    /* attribute selector*/
+    width:100%;
+    height: 50px;
+    border: 1px solid;
+    background: #2691d9;
+    border-radius: 25px;
+    font-size: 18px;
+    color:#e9f4fb;
+    font-weight: 700;
+    cursor: pointer;
+    outline: none;
+
+}
+input[type="submit"]:hover{
+    border-color: #2691d9 ;
+    transition: .5s;
+}
+.signup_link{
+    margin:30px 0;
+    text-align: center;
+    font-size: 16px;
+    color:#666666;
+}
+.signup_link a{
+    color:#2691d9;
+    text-decoration: none;
+}
+.signup_link a:hover{
+    text-decoration: underline;
+}
+
+
+
