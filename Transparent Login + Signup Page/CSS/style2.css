@@ -1,0 +1,16 @@
+@import "/CSS/style1.css";
+
+.container{
+    top: 8%;
+    left: 40%;
+}
+.container h1{
+
+    width:60%;
+}
+.signup_text h1{
+    margin-left: 80px;
+}
+.signup_text a{
+    margin-left : 39%
+}

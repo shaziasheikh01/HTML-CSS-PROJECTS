@@ -1,0 +1,17 @@
+step 1 - go for font awesome paste your in to head.
+step 2 - pexels.com for bg image.
+step 3 - go to fontawsomecheatsheet.com website for icon code 
+step 4 - create a div with container class and create a heading inside it.
+step 5 - create two more div with same class for user and password.
+step 6 - create a button with class btn.
+
+step 7 - create a css file and link it.
+step 8 - set all style for element.
+step 9-  for transparency set background of container none.
+
+step- 10 for font style go to gopgle fonts.
+step - 11 import selected style.
+
+step - 12 for create another hml page just link it with older css file by import keyword @import "style.css";
+
+Extra - website wallpaper flare and pngitems , pixabay (for free photos) also for wallpaper and logo 
