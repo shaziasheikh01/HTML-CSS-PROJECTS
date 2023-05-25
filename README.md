@@ -36,4 +36,8 @@ https://shaziasheikh01.github.io/HTML-CSS-PROJECTS/Gym%20Website/
 
 https://shaziasheikh01.github.io/HTML-CSS-PROJECTS/Animated%20Login%20Page/
 
+9 - Transparent LogIn and SignUp Page
+
+https://shaziasheikh01.github.io/HTML-CSS-PROJECTS/Transparent%20Login%20+%20Signup%20Page/index.html
+
 
